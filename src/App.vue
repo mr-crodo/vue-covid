@@ -104,8 +104,7 @@
       group: null,
       items: [
         { title: 'World summary', icon: 'mdi-earth', link: '/' },
-        { title: 'Countries', icon: 'mdi-flag', link: '/countries' },
-        { title: 'News', icon: 'mdi-newspaper', link: '/' },
+        // { title: 'Countries', icon: 'mdi-flag', link: '/countries' },
         { title: 'Aze Turk', icon: 'mdi-newspaper', link: '/azerb' }
       ]
     }),
